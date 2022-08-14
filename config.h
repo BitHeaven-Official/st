@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 
- #define FONT "JetBrainsMono Nerd Font Mono"
+#define FONT "JetBrainsMono Nerd Font Mono"
 
 static char *font = FONT":pixelsize=12:antialias=true:autohint=true";
 static char *font2[] = {
