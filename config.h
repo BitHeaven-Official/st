@@ -6,12 +6,10 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 
-#define FONT "JetBrainsMono Nerd Font Mono"
-
-static char *font = FONT":pixelsize=12:antialias=true:autohint=true";
+static char *font = "Ubuntu Mono:pixelsize=12:antialias=true:autohint=true";
 static char *font2[] = {
-    "Symbols Nerd Font Mono:pixelsize=12:antialias=true:autohint=true",
-    FONT":pixelsize=12:antialias=true:autohint=true"
+    "Ubuntu Mono:pixelsize=12:antialias=true:autohint=true",
+    "Font Awesome 6 Free Solid:pixelsize=12:antialias=true:autohint=true"
 };
 static int borderpx = 2;
 
