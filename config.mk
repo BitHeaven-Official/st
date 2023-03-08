@@ -1,5 +1,5 @@
 # st version
-VERSION = 0.8.5
+VERSION = bit_1.0
 
 # Customize below to fit your system
 

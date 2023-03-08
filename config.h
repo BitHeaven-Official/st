@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 
-#define FONTSIZE "14"
+#define FONTSIZE "24"
 
 static char *font = "Ubuntu Mono:pixelsize="FONTSIZE":antialias=true:autohint=true";
 static char *font2[] = {
